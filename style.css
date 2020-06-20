@@ -1,7 +1,5 @@
 :root {
 	--color0: #100c01;
-	--color256: #1d2021;
-	--color257: #ebdbb2;
 	--color1: #777149;
 	--color2: #8D7227;
 	--color3: #86794C;
@@ -17,6 +15,8 @@
 	--color13: #AB8C31;
 	--color14: #D5B453;
 	--color15: #ede8c8;
+	--color256: #100c01;
+	--color257: #ede8c8;
 }
 
 li img {
